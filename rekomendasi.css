@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+#judul p{
+    background-color: rgb(248, 197, 197);
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding: 15px;
+    /* untuk buat bordernya*/
+    border-bottom: 5px solid rgb(228, 193, 193);
+    margin-bottom: 50px;
+
+}
+
+.media img{
+    height: 240px;
+    width: 360px;
+    /*untuk buat gambar ke tengah */
+    display: block;
+    margin: 0 auto;
+    /*----------------------------*/
+}
+
+.content{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.content{
+    margin-top: 20px;
+    
+}
+
+.one{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.one p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.one img{
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+    width: 350px;
+}
+
+.two{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.two p{
+    margin-top: 20spx;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.two img{
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+    width: 350px;
+}
+
+.three{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.three p{
+    margin-top: 20spx;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.three img{
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+    width: 350px;
+}
