@@ -43,7 +43,7 @@ body {
   
   .hero {
     height: 380px;
-    background-image: url(images/cabeijo.jpg);
+    background-image: url(cabeijo.jpg);
     background-size: cover;
     background-position: 0 -75px;
     outline-style: solid;
